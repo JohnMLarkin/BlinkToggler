@@ -1,4 +1,4 @@
-# Program: Red-Green Alternating LEDs
+# Program: Blink Rate Toggler
 **Author:** John M. Larkin <jlarkin@whitworth.edu>  
 **Date:** December 31, 2020
 
